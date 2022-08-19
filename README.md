@@ -1,5 +1,5 @@
 # 💫 About Me:
-Beans beans beans
+Software Dev
 
 
 # 💻 Tech Stack:
